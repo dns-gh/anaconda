@@ -22,6 +22,7 @@ const (
 	TwitterErrorOverCapacity            = 130
 	TwitterErrorInternalError           = 131
 	TwitterErrorCouldNotAuthenticateYou = 135
+	TwitterErrorStatusOver140Characters = 186
 	TwitterErrorStatusIsADuplicate      = 187
 	TwitterErrorBadAuthenticationData   = 215
 	TwitterErrorUserMustVerifyLogin     = 231
